@@ -1,5 +1,7 @@
 # Cleaning-Data-in-Python
 
+The data analysis is documented in [Cleaning Data in Python.ipynb](https://github.com/iDataist/Cleaning-Data-in-Python/blob/master/Cleaning%20Data%20in%20Python.ipynb). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
+
 - Exploring the data: diagnose issues such as outliers, missing values, and duplicate rows.
 
 - Tidying data for analysis: reshape and tidy the data using pivoting and melting.
